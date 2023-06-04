@@ -372,13 +372,3 @@ These methods are only useful on iOS. For Android you'll have to use https://fac
 
 These methods do **not** re-request permission if permission has already been granted or denied. This is a limitation in iOS, the best you can do is prompt the user with instructions for how to enable contacts from the phone settings page `Settings > [app name] > contacts`.
 
-## Example
-You can find an example app/showcase [here](https://github.com/rt2zz/react-native-contacts/tree/master/example)
-
-![react-native-contacts example](https://github.com/rt2zz/react-native-contacts/raw/master/example/react-native-contacts.gif)
-
-
-
-## LICENSE
-
-[MIT License](LICENSE)
